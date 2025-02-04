@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+
+  <title>Frontend Mentor | Intro component with sign up form</title>
+
+  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+    .attribution {
+      font-size: 11px;
+      text-align: center;
+    }
+
+    .attribution a {
+      color: hsl(228, 45%, 44%);
+    }
+  </style>
+  <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+  <main>
+    <section class="section1">
+      <h1>Learn to code by watching others</h1>
+
+      <p>See how experienced developers solve problems in real-time. Watching scripted tutorials is great,
+        but understanding how developers think is invaluable.</p>
+    </section>
+
+    <section class="section2">
+
+      <div class="section2__text"> <strong>Try it free 7 days</strong> then $20/mo. thereafter</div>
+      <form action="" id="form">
+        <!-- <label for="fName"></label> -->
+        <div class="formEntry">
+          <input type="text" id="fName" name="fName" class="text" placeholder="First Name"><span></span>
+        </div>
+        <div class="formEntry">
+          <input type="text" name="lName" id="lName" class="text" placeholder="Last Name"><span></span>
+        </div>
+        <div class="formEntry"><input type="text" name="email" id="email" class="email"
+            placeholder="Email Address"><span></span>
+        </div>
+        <!-- changed email entry to input "text" since input="email" causes issues in e-mail verification -->
+        <div class="formEntry"><input type="password" name="pWord" id="pWord" class="password"
+            placeholder="Password"><span></span>
+        </div>
+        <input type="submit" value="Claim your free trial" onclick="">
+        <p>By clicking the button, you are agreeing to our <strong>Terms and Services</strong></p>
+      </form>
+
+    </section>
+  </main>
+
+  <footer>
+    <p class="attribution">
+      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+      Coded by <a href="#">Your Name Here</a>.
+    </p>
+  </footer>
+  <script src="verification.js"></script>
+</body>
+
+</html>
