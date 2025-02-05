@@ -1,5 +1,5 @@
 # An Introductory Component with a Sign Up Form using HTML,CSS, JavaScript
-<style>
+<!-- <style>
 .links {
     display: flex;
     flex-direction: row;
@@ -7,16 +7,14 @@
     align-items: center;
     column-gap: 32px;
 }
-</style>
+</style> -->
 
 ## Project Links
 
 <div class="links">
 
 ![https://github.com/Kofi100](./images/github-mark/github-mark-white.svg) 
-
 <a href=""> <img src="./images/githubPages.jpg" style="height:100px"></a>
-
 <a href="https://www.frontendmentor.io/profile/Kofi100"><img src="./images/frontEndMentor.png" style="width:200px"></a>
 
 </div>
@@ -68,7 +66,6 @@ Active State Submit Button
 <div class="links">
 
 ![https://github.com/Kofi100](./images/github-mark/github-mark-white.svg)
-
 <a href="https://www.frontendmentor.io/profile/Kofi100">
 <img src="./images/frontEndMentor.png" style="width:200px"></a>
 
