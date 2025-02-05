@@ -15,7 +15,7 @@
 
 <a href="https://github.com/Kofi100/intro-component"><img src="./images/github-mark/github-mark-white.svg" style=""> </a>
 <a href="https://kofi100.github.io/intro-component/"> <img src="./images/githubPages.jpg" style="height:100px"></a>
-<a href="https://www.frontendmentor.io/profile/Kofi100"><img src="./images/frontEndMentor.png" style="width:200px"></a>
+<a href="https://www.frontendmentor.io/solutions/intro-component-using-htmlcssjavascript-HKi0Wx4WRY"><img src="./images/frontEndMentor.png" style="width:200px"></a>
 
 </div>
 
