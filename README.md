@@ -13,8 +13,8 @@
 
 <div class="links">
 
-![https://github.com/Kofi100](./images/github-mark/github-mark-white.svg) 
-<a href=""> <img src="./images/githubPages.jpg" style="height:100px"></a>
+<a href="https://github.com/Kofi100/intro-component"><img src="./images/github-mark/github-mark-white.svg" style=""> </a>
+<a href="https://kofi100.github.io/intro-component/"> <img src="./images/githubPages.jpg" style="height:100px"></a>
 <a href="https://www.frontendmentor.io/profile/Kofi100"><img src="./images/frontEndMentor.png" style="width:200px"></a>
 
 </div>
@@ -65,8 +65,10 @@ Active State Submit Button
 
 <div class="links">
 
-![https://github.com/Kofi100](./images/github-mark/github-mark-white.svg)
+<a href="https://github.com/Kofi100"><img src="./images/github-mark/github-mark-white.svg" style=""> </a>
 <a href="https://www.frontendmentor.io/profile/Kofi100">
 <img src="./images/frontEndMentor.png" style="width:200px"></a>
 
 </div>
+
+<!-- <a href=""><img src="" style=""> </a> -->
